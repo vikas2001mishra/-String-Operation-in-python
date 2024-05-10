@@ -1,4 +1,4 @@
-# -String-Operation-in-python
+# String-Operation-in-python
 
 # string methods :
          lower(): Converts all uppercase characters in a string into lowercase
